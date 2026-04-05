@@ -118,11 +118,5 @@ import seaborn as sns
 - Data visualization techniques
 - Working with scikit-learn library
 
-## 📞 Contact
-
-For queries: 637014949
-
----
-
 **Created by:** Tamaterkun
 **Last Updated:** March 31, 2026
